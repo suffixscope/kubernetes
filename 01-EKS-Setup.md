@@ -48,7 +48,7 @@ eksctl create cluster --name cluster-name  \
 
 ## N. Virgina: <br/>
 `
-eksctl create cluster --name vinodses-cluster4 --region us-east-1 --node-type t2.medium  --zones us-east-1a,us-east-1b
+eksctl create cluster --name vinodses-cluster4 --region us-east-1 --node-type c7i-flex.large  --zones us-east-1a,us-east-1b
 `	
 ## Mumbai: <br/>
 `
